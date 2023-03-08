@@ -8,5 +8,11 @@ A calculator app based in basic JS, but not using the eval() function.
 <li> It considers the pripority of different kinds of operators in long calculations. Rounds decimal numbers to two places.</li>
 <li> Rounds decimal numbers to two places.</li>
 
+
+
 ## ... But why?
 This little project is part of a challenge in the precourse of the ISDI Coders's Online Web Developement course.
+
+## Wanna calculate some basic 2 + 2?
+
+Or maybe even more! <a href="https://rucev.github.io/Calculator/">Go ahead and do some maths</a>.
