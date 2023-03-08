@@ -5,7 +5,7 @@ A calculator app based in basic JS, but not using the eval() function.
 
 ## Functionalities
 <li> It allows you to multiplicate, divide, add and substract... as usually basic calculators do.</li>
-<li> It considers the pripority of different kinds of operators in long calculations. Rounds decimal numbers to two places.</li>
+<li> It considers the pripority of different kinds of operators in long calculations.</li>
 <li> Rounds decimal numbers to two places.</li>
 
 
